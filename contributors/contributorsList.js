@@ -1988,7 +1988,7 @@ contributors = [
   },
   {
    id: 392,
-    fullname: "ArslanSA"
-    username: "https://github.com/Arslan-SA"
+   fullname: "ArslanSA",
+   username: "https://github.com/Arslan-SA",
   }
 ];
